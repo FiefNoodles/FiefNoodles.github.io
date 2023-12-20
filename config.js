@@ -1,6 +1,6 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
-  VITE_CORS_PROXY_URL: "https://simple-proxy.givemeyourtrash.workers.dev",
+  VITE_CORS_PROXY_URL: "https://simple-proxy.givemeyourtrash.workers.dev/",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "9990db75d12d4ecd4ed84628ebc96403",
